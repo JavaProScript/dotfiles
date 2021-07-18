@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierrelion1997@yahoo.fr
+	name = Pierre Lion
